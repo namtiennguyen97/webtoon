@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+}
+.pop-up{
+font-family:  Arial, Helvetica, sans-serif;
+
+}
+.container{
+
+}
+
+.body{
+    /*width: 100%;*/
+    /*background: yellow;*/
+
+}
+.panel-heading{
+    width: 70%;
+    height: 40px;
+    background: #5c91ff;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    float: left;
+
+
+}
+p{
+    font-size: 23px;
+}
+p1{
+    font-size: 23px;
+    color: blue;
+}
+.side1{
+    width: 25%;
+    height: 40px;
+    background: #5c91ff;
+    /*border: 1px solid black;*/
+    border-radius: 5px;
+    color: white;
+    float: left;
+
+    margin: 0px 25px;
+}
+.m1{
+    width: 15%;
+    height: 250px;
+    background: #fff3bf;
+    float: left;
+    margin: 0px 10px;
+}
+.m2{
+
+    width: 15%;
+    height: 250px;
+    background:  #fff3bf;
+    float: left;
+    margin: 0px 15px;
+}
+.m3{
+
+    width: 15%;
+    height: 250px;
+    background:  #fff3bf;
+    float: left;
+    margin: 0px 15px;
+}
+.m4{
+
+    width: 15%;
+    height: 250px;
+    background:  #fff3bf;
+    float: left;
+    margin: 0px 15px;
+}
